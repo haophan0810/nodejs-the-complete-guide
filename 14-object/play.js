@@ -5,4 +5,4 @@ const a = {
     }
 }
 
-a.test();
+a.test(); 
